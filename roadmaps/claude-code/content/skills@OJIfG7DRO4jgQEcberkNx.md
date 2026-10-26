@@ -10,3 +10,4 @@ Visit the following resources to learn more:
 - [@official@The Complete Guide to Building Skills for Claude](https://resources.anthropic.com/hubfs/The-Complete-Guide-to-Building-Skill-for-Claude.pdf?hsLang=en)
 - [@video@Claude Code Skills & skills.sh - Crash Course](https://www.youtube.com/watch?v=rcRS8-7OgBo)
 - [@video@MCP vs Skills: Which Is Right for Your AI Agent and LLMs?](https://www.youtube.com/watch?v=goU9VIXA8II)
+- [@article@From Ad Hoc Prompting to Repeatable AI Workflows with Claude Code Skills](https://towardsdatascience.com/from-ad-hoc-prompting-to-repeatable-ai-workflows-with-claude-code-skills/?utm_source=roadmap&utm_medium=Referral&utm_campaign=TDS+roadmap+integration)

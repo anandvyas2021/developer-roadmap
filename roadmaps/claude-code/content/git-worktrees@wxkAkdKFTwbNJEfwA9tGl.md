@@ -7,3 +7,4 @@ Visit the following resources to learn more:
 - [@official@Run parallel Claude Code sessions with Git worktrees](https://code.claude.com/docs/en/worktrees)
 - [@article@Using Git Worktrees for Parallel AI Development](https://stevekinney.com/courses/ai-development/git-worktrees)
 - [@video@Git Worktrees: The secret sauce to Claude Code!](https://www.youtube.com/watch?v=up91rbPEdVc)
+- [@article@AI Agents Need Their Own Desk, and Git Worktrees Give Them One](https://towardsdatascience.com/ai-agents-need-their-own-desk-and-git-worktrees-give-it-one/?utm_source=roadmap&utm_medium=Referral&utm_campaign=TDS+roadmap+integration)

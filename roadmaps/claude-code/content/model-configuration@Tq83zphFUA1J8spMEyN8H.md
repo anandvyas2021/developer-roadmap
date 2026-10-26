@@ -6,3 +6,4 @@ Visit the following resources to learn more:
 
 - [@official@Model configuration](https://code.claude.com/docs/en/model-config#model-configuration)
 - [@article@A complete guide to model configuration in Claude Code](https://www.eesel.ai/blog/model-configuration-claude-code)
+- [@article@How to Run Claude Code for Free with Local and Cloud Models from Ollama](https://towardsdatascience.com/run-claude-code-for-free-with-local-and-cloud-models-from-ollama/?utm_source=roadmap&utm_medium=Referral&utm_campaign=TDS+roadmap+integration)

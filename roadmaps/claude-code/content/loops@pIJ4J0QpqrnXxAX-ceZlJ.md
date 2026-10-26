@@ -9,3 +9,5 @@ Visit the following resources to learn more:
 - [@article@What Is the Claude Code /loop Command?](https://www.mindstudio.ai/blog/what-is-claude-code-loop-command-recurring-tasks)
 - [@video@Stop Prompting Claude. Start Loop Engineering.](https://www.youtube.com/watch?v=YAS4ojuhbW4)
 - [@video@Claude Code Loops in 7 Minutes](https://www.youtube.com/watch?v=pWZh37iRnDA)
+- [@article@How to Create Powerful Loops in Claude Code](https://towardsdatascience.com/how-to-create-powerful-loops-in-claude-code/?utm_source=roadmap&utm_medium=Referral&utm_campaign=TDS+roadmap+integration)
+- [@article@How to Run Claude Code Agents for 24+ Hours](https://towardsdatascience.com/how-to-run-claude-code-agents-for-24-hours/?utm_source=roadmap&utm_medium=Referral&utm_campaign=TDS+roadmap+integration)
