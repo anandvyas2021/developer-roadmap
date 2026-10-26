@@ -5,3 +5,4 @@ Active management of the context window is the single most effective way to ensu
 Visit the following resources to learn more:
 
 - [@official@Manage costs effectively](https://code.claude.com/docs/en/costs#reduce-token-usage)
+- [@article@Context Rot: Why Claude Code Sessions Decay, and How to Govern Them](https://towardsdatascience.com/governed-context-managing-context-rot-in-claude-code/?utm_source=roadmap&utm_medium=Referral&utm_campaign=TDS+roadmap+integration)

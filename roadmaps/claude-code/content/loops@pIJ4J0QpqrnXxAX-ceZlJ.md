@@ -7,5 +7,6 @@ Visit the following resources to learn more:
 - [@official@Run a prompt repeatedly with /loop](https://code.claude.com/docs/en/scheduled-tasks#run-a-prompt-repeatedly-with-/loop)
 - [@official@Keep Claude working toward a goal](https://code.claude.com/docs/en/goal)
 - [@article@What Is the Claude Code /loop Command?](https://www.mindstudio.ai/blog/what-is-claude-code-loop-command-recurring-tasks)
+- [@article@How to Run Claude Code Agents for 24+ Hours](https://towardsdatascience.com/how-to-run-claude-code-agents-for-24-hours/?utm_source=roadmap&utm_medium=Referral&utm_campaign=TDS+roadmap+integration)
 - [@video@Stop Prompting Claude. Start Loop Engineering.](https://www.youtube.com/watch?v=YAS4ojuhbW4)
 - [@video@Claude Code Loops in 7 Minutes](https://www.youtube.com/watch?v=pWZh37iRnDA)

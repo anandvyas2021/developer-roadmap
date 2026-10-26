@@ -7,3 +7,4 @@ Visit the following resources to learn more:
 - [@official@Pricing](https://claude.com/pricing)
 - [@official@Pricing in detail](https://platform.claude.com/docs/en/about-claude/pricing)
 - [@article@Claude Pricing Explained: Subscription Plans & API Costs](https://intuitionlabs.ai/articles/claude-pricing-plans-api-costs)
+- [@article@Where Does the Money Go Across Long-Running Coding Agents?](https://towardsdatascience.com/where-does-the-money-go-across-long-running-coding-agents/?utm_source=roadmap&utm_medium=Referral&utm_campaign=TDS+roadmap+integration)
