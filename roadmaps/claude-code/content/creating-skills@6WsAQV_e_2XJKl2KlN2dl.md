@@ -7,6 +7,6 @@ Visit the following resources to learn more:
 - [@course@Agent Skills with Anthropic](https://www.deeplearning.ai/short-courses/agent-skills-with-anthropic/)
 - [@official@Extend Claude with skills](https://code.claude.com/docs/en/skills#extend-claude-with-skills)
 - [@official@How to create custom Skills](https://support.claude.com/en/articles/12512198-how-to-create-custom-skills)
+- [@article@How to Build a Production-Ready Claude Code Skill](https://towardsdatascience.com/how-to-build-a-production-ready-claude-code-skill/?utm_source=roadmap&utm_medium=Referral&utm_campaign=TDS+roadmap+integration)
 - [@article@Build Your First Claude Code Agent Skill: A Simple Project Memory System That Saves Hours](https://pub.spillwave.com/build-your-first-claude-code-skill-a-simple-project-memory-system-that-saves-hours-1d13f21aff9e)
 - [@video@Claude Code Skills & skills.sh - Crash Course](https://www.youtube.com/watch?v=rcRS8-7OgBo)
-- [@article@How to Build a Production-Ready Claude Code Skill](https://towardsdatascience.com/how-to-build-a-production-ready-claude-code-skill/?utm_source=roadmap&utm_medium=Referral&utm_campaign=TDS+roadmap+integration)
