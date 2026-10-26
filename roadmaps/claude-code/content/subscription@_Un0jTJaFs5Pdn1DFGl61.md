@@ -7,4 +7,3 @@ Visit the following resources to learn more:
 - [@official@Log in to your account](https://code.claude.com/docs/en/quickstart#step-2-log-in-to-your-account)
 - [@official@Subscription & Pricing](https://claude.com/pricing)
 - [@article@Claude Pricing Explained: Subscription Plans & API Costs](https://intuitionlabs.ai/articles/claude-pricing-plans-api-costs)
-- [@article@How to Maximize Your Coding Agent Subscriptions](https://towardsdatascience.com/how-to-maximize-your-coding-agent-subscriptions/?utm_source=roadmap&utm_medium=Referral&utm_campaign=TDS+roadmap+integration)
