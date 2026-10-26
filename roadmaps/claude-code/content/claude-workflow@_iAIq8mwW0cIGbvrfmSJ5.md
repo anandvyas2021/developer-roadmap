@@ -6,9 +6,5 @@ Visit the following resources to learn more:
 
 - [@official@How Claude Code Works](https://code.claude.com/docs/en/how-claude-code-works)
 - [@official@Common workflows](https://code.claude.com/docs/en/common-workflows)
-- [@article@My Best Workflow for Working with Claude Code : r/ClaudeAI](https://www.reddit.com/r/ClaudeAI/comments/1m3pol4/my_best_workflow_for_working_with_claude_code/)
 - [@video@Claude Code Workflows That Will 10x Your Productivity](https://www.youtube.com/watch?v=yZvDo_n12ns)
 - [@video@The greatest Claude Code workflow ever (10x your speed)](https://www.youtube.com/watch?v=WdD6uD_kupY)
-- [@article@How to Improve Claude Code Performance with Automated Testing](https://towardsdatascience.com/how-to-vastly-improve-claude-code-performance-with-automated-testing/?utm_source=roadmap&utm_medium=Referral&utm_campaign=TDS+roadmap+integration)
-- [@article@How to Make Claude Code Validate its own Work](https://towardsdatascience.com/how-to-make-claude-code-validate-its-own-work/?utm_source=roadmap&utm_medium=Referral&utm_campaign=TDS+roadmap+integration)
-- [@article@How to Run End-to-End Tests with Claude Code](https://towardsdatascience.com/how-to-run-end-to-end-tests-with-claude-code/?utm_source=roadmap&utm_medium=Referral&utm_campaign=TDS+roadmap+integration)
